@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|c:\\users\\zxc09\\downloads\\artonlineshop\\artonlineshop\\webapplication4\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\handler1.ashx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\handler1.ashx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\shop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\shop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\why.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\why.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\testimonial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\testimonial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\why.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\why.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\contact2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\contact2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\contact2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\contact2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\webapplication4\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E04880-8034-48DB-A849-30E08D0E0721}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 322,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication4\\Default.aspx",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\Default.aspx",
+              "RelativeToolTip": "WebApplication4\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-29T10:49:02.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "shop.aspx",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\shop.aspx",
+              "RelativeDocumentMoniker": "WebApplication4\\shop.aspx",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\shop.aspx",
+              "RelativeToolTip": "WebApplication4\\shop.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-27T16:15:28.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\index.aspx",
+              "RelativeDocumentMoniker": "WebApplication4\\index.aspx",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\index.aspx",
+              "RelativeToolTip": "WebApplication4\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-27T16:13:18.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Handler1.ashx.cs",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\Handler1.ashx.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Handler1.ashx.cs",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\Handler1.ashx.cs",
+              "RelativeToolTip": "WebApplication4\\Handler1.ashx.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwFAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:25:40.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\Site.Master",
+              "RelativeDocumentMoniker": "WebApplication4\\Site.Master",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\Site.Master",
+              "RelativeToolTip": "WebApplication4\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-29T10:56:26.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\Contact.aspx",
+              "RelativeDocumentMoniker": "WebApplication4\\Contact.aspx",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\Contact.aspx",
+              "RelativeToolTip": "WebApplication4\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-27T16:21:43.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignIn.aspx",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\SignIn.aspx",
+              "RelativeDocumentMoniker": "WebApplication4\\SignIn.aspx",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\SignIn.aspx",
+              "RelativeToolTip": "WebApplication4\\SignIn.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-28T09:25:18.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "WebApplication4\\Site.Mobile.Master",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\Site.Mobile.Master",
+              "RelativeToolTip": "WebApplication4\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-29T10:59:07.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "shop.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\shop.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\shop.aspx.cs",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\shop.aspx.cs",
+              "RelativeToolTip": "WebApplication4\\shop.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:25:29.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "testimonial.aspx",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\testimonial.aspx",
+              "RelativeDocumentMoniker": "WebApplication4\\testimonial.aspx",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\testimonial.aspx",
+              "RelativeToolTip": "WebApplication4\\testimonial.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-27T16:16:27.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "why.aspx",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\why.aspx",
+              "RelativeDocumentMoniker": "WebApplication4\\why.aspx",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\why.aspx",
+              "RelativeToolTip": "WebApplication4\\why.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-27T16:17:41.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "why.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\why.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\why.aspx.cs",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\why.aspx.cs",
+              "RelativeToolTip": "WebApplication4\\why.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:28:13.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "contact2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\contact2.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\contact2.aspx.cs",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\contact2.aspx.cs",
+              "RelativeToolTip": "WebApplication4\\contact2.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:24:30.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\index.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\index.aspx.cs",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\index.aspx.cs",
+              "RelativeToolTip": "WebApplication4\\index.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:20:33.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "contact2.aspx",
+              "DocumentMoniker": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\contact2.aspx",
+              "RelativeDocumentMoniker": "WebApplication4\\contact2.aspx",
+              "ToolTip": "C:\\Users\\zxc09\\Downloads\\ArtOnlineShop\\ArtOnlineShop\\WebApplication4\\contact2.aspx",
+              "RelativeToolTip": "WebApplication4\\contact2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-27T16:14:17.457Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
